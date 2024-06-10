@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\bin\Debug\Calculadora.Franco.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\bin\Debug\Calculadora.Franco.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\Calculadora.Franco.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\Calculadora.Franco.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\Calculadora.Franco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Calculadora.Franco\Calculadora.Franco\obj\x86\Debug\Calculadora.Franco.Form1.resources
